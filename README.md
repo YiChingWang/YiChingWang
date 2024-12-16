@@ -8,8 +8,7 @@
 ---
 
 ### 🌟 **Skills and Tools**  
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)  
-![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)  
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)  ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)  
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb)  
